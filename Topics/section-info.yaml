@@ -1,0 +1,24 @@
+content:
+- Introduction to Java
+- Scanning the input
+- Relational operators
+- Iterating over arrays
+- The keyword super
+- Posting and deleting data via REST
+- The Map interface
+- HashMap
+- Exception handling
+- Default methods
+- Anonymous classes
+- Lambda expressions
+- Generic methods
+- Optional
+- LocalDate
+- Comparing dates and time
+- The utility class Collections
+- Threads as objects
+- Custom threads
+- Thread management
+- Thread synchronization
+- Builder
+- Abstract class

@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.20/18bcea7d5df4d49227b4a0743a536208ce4825bb/lombok-1.18.20.jar" />
+        </processorPath>
+        <module name="Recipes.Recipes.task.Recipes.Recipes-task.test~1" />
+        <module name="Recipes.task.Recipes.Recipes-task.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.22/9c08ea24c6eb714e2d6170e8122c069a0ba9aacf/lombok-1.18.22.jar" />
+        </processorPath>
+        <module name="Theory.Recipes.Topics-Posting_and_deleting_data_via_REST-Theory.main" />
+        <module name="Recipes.Topics-The_utility_class_Collections-The_first_index_of_a_sublist.main" />
+        <module name="Recipes.Topics-Default_methods-Implement_a_default_method.test" />
+        <module name="Recipes.Topics-LocalDate-2_weeks_after.test" />
+        <module name="Recipes.Topics-Scanning_the_input-Hiring_a_chef.test" />
+        <module name="java.Recipes.Recipes-task-build-generated-sources-annotationProcessor-java.main" />
+        <module name="Recipes.Topics-Anonymous_classes-String_reverser.main" />
+        <module name="Recipes.Topics-Builder-Builder.test" />
+        <module name="Recipes.Topics-Scanning_the_input-Print_strings_in_the_reverse_order.main" />
+        <module name="Recipes.Topics-Threads_as_objects-Thread_name.main" />
+        <module name="Recipes.Topics-Custom_threads-Starting_threads.test" />
+        <module name="Print content.Recipes.Topics-Generic_methods-Print_content.test" />
+        <module name="Recipes.Topics-Optional-The_address_book.test" />
+        <module name="Recipes.Topics-Introduction_to_Java-Theory.main" />
+        <module name="Recipes.Topics-The_Map_interface-Sherlock_Holmes_and_the_mystery_of_anagrams.main" />
+        <module name="Recipes.util.main" />
+        <module name="Recipes.Topics-Lambda_expressions-Creating_a_closure.test" />
+        <module name="Recipes.Topics-Generic_methods-The_first_element.main" />
+        <module name="Capture variables.Recipes.Topics-Anonymous_classes-Capture_variables.main" />
+        <module name="Recipes.Topics-The_keyword_super-Employees.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Don't_be_late_again.main" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Theory.main" />
+        <module name="Recipes.Topics-Thread_management-VeganPizza.test" />
+        <module name="The keyword super.Theory.Recipes.Topics-The_keyword_super-Theory.test" />
+        <module name="Theory.Recipes.Topics-Optional-Theory.main" />
+        <module name="Recipes.Topics-The_keyword_super-Theory.main" />
+        <module name="Recipes.Topics-Thread_management-Ordering_the_execution_of_threads.test" />
+        <module name="Recipes.Topics-Builder-Theory.main" />
+        <module name="Recipes.Topics-The_Map_interface-Getting_submaps.main" />
+        <module name="Single method.Recipes.Topics-Anonymous_classes-Single_method.test" />
+        <module name="Theory.Recipes.Topics-Generic_methods-Theory.test" />
+        <module name="Recipes.Topics-Custom_threads-Theory.test" />
+        <module name="Recipes.Topics-LocalDate-Convert_numbers_to_days.test" />
+        <module name="Recipes.Topics-The_Map_interface-Counting_words.main" />
+        <module name="tests.Recipes.Recipes-task-build-reports-tests.test" />
+        <module name="Recipes.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.main" />
+        <module name="Recipes.Topics-Thread_management-Calculate_the_number_of_distinct_characters.test" />
+        <module name="Recipes.Topics-The_Map_interface-Tricky_sub-maps.main" />
+        <module name="Recipes.Topics-LocalDate-10_days_before.main" />
+        <module name="java.Recipes.Recipes-task-build-generated-sources-headers-java.test" />
+        <module name="Recipes.Topics-Iterating_over_arrays-The_sum_of_array_elements.main" />
+        <module name="Recipes.Topics-Builder-Builder__1_.test" />
+        <module name="Recipes.Topics-Iterating_over_arrays-Check_if_an_array_contains_two_numbers.test" />
+        <module name="Recipes.Topics-Iterating_over_arrays-Theory.test" />
+        <module name="Recipes.Topics-Scanning_the_input-Guest_list_of_a_hotel.main" />
+        <module name="Recipes.Topics-Scanning_the_input-Theory.test" />
+        <module name="Recipes.Topics-Default_methods-Theory.main" />
+        <module name="An anonymous class with three methods.Recipes.Topics-Anonymous_classes-An_anonymous_class_with_three_methods.main" />
+        <module name="Resolve a diamond problem.Recipes.Topics-Default_methods-Resolve_a_diamond_problem.main" />
+        <module name="The same letter.Recipes.Topics-HashMap-The_same_letter.test" />
+        <module name="Recipes.Topics-HashMap-The_same_pairs.main" />
+        <module name="Recipes.Topics-Thread_synchronization-Countdown_counter.main" />
+        <module name="java.Recipes.Recipes-task-build-classes-java.test" />
+        <module name="Recipes.Topics-Custom_threads-Message_notifier_as_a_thread.test" />
+        <module name="Recipes.Topics-Relational_operators-Groundhogs_at_a_party.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Is_the_date_between_the_two_other_dates_.test" />
+        <module name="Recipes.Topics-Introduction_to_Java-Hello_.main" />
+        <module name="Recipes.Topics-The_Map_interface-Creating_a_map.test" />
+        <module name="Recipes.Topics-Custom_threads-Multiple_threads.main" />
+        <module name="Add new default method.Recipes.Topics-Default_methods-Add_new_default_method.test" />
+        <module name="Recipes.Topics-Iterating_over_arrays-The_sum_of_array_elements.test" />
+        <module name="Recipes.Topics-The_Map_interface-Kidnapper_of_Ice_cream.test" />
+        <module name="Theory.Recipes.Topics-Anonymous_classes-Theory.test" />
+        <module name="Recipes.Topics-Threads_as_objects-Is_thread_daemon.test" />
+        <module name="Recipes.Topics-Custom_threads-Writing_a_thread_for_printing_numbers.main" />
+        <module name="Recipes.Topics-Abstract_class-Theory.main" />
+        <module name="Recipes.Topics-Thread_synchronization-Theory.main" />
+        <module name="Recipes.Topics-LocalDate-Theory.main" />
+        <module name="Recipes.Topics-HashMap-Theory.main" />
+        <module name="Recipes.Topics-Thread_management-Theory.main" />
+        <module name="Recipes.Topics-Exception_handling-Theory.main" />
+        <module name="Recipes.Topics-The_Map_interface-Displaying_pairs.main" />
+        <module name="Recipes.Topics-Builder-Geek_Builder.main" />
+        <module name="Recipes.Topics-Custom_threads-Starting_runnables.test" />
+        <module name="Recipes.Topics-Lambda_expressions-Theory.test" />
+        <module name="The keyword super.Employees.Recipes.Topics-The_keyword_super-Employees.test" />
+        <module name="Recipes.Topics-The_utility_class_Collections-The_first_index_of_a_sublist.test" />
+        <module name="Recipes.Topics-Builder-Robot_Builder.test" />
+        <module name="tmp.Recipes.Recipes-task-build-tmp.main" />
+        <module name="Recipes.Topics-Threads_as_objects-Theory.test" />
+        <module name="Recipes.Topics-The_Map_interface-Theory.main" />
+        <module name="Recipes.Topics-Relational_operators-Theory.main" />
+        <module name="Recipes.Topics-Abstract_class-Users_and_WebSites.main" />
+        <module name="Recipes.Topics-Custom_threads-Starting_threads.main" />
+        <module name="Recipes.Topics-Relational_operators-Check_the_value.test" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Frequency_of_characters.main" />
+        <module name="Check for null.Recipes.Topics-Generic_methods-Check_for_null.test" />
+        <module name="Recipes.Topics-Iterating_over_arrays-Alphabetical_order.test" />
+        <module name="Recipes.Topics-Optional-The_address_book.main" />
+        <module name="test-results.Recipes.Recipes-task-build-test-results.test" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Sorting_sequences.main" />
+        <module name="Recipes.Topics-Iterating_over_arrays-The_index_of_the_first_max_in_an_array.test" />
+        <module name="java.Recipes.Recipes-task-build-generated-sources-headers-java.main" />
+        <module name="Recipes.Topics-Anonymous_classes-Implement_Runnable.test" />
+        <module name="An anonymous class with three methods.Recipes.Topics-Anonymous_classes-An_anonymous_class_with_three_methods.test" />
+        <module name="Recipes.Topics-Scanning_the_input-Guest_list_of_a_hotel.test" />
+        <module name="Recipes.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.test" />
+        <module name="Countries and capitals.Recipes.Topics-HashMap-Countries_and_capitals.test" />
+        <module name="test-results.Recipes.Recipes-task-build-test-results.main" />
+        <module name="Recipes.Topics-Relational_operators-Check_the_value.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Theory.main" />
+        <module name="Recipes.Topics-Thread_management-Ordering_the_execution_of_threads.main" />
+        <module name="Resolve a diamond problem.Recipes.Topics-Default_methods-Resolve_a_diamond_problem.test" />
+        <module name="Recipes.Topics-LocalDate-Convert_numbers_to_days.main" />
+        <module name="Recipes.Topics-The_Map_interface-Counting_words.test" />
+        <module name="Recipes.Topics-LocalDate-2_weeks_after.main" />
+        <module name="java.Recipes.Recipes-task-build-generated-sources-annotationProcessor-java.test" />
+        <module name="Recipes.Topics-Custom_threads-Starting_runnables.main" />
+        <module name="Recipes.Topics-Thread_management-Calculate_the_number_of_distinct_characters.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Don't_be_late_again.test" />
+        <module name="Recipes.Topics-Custom_threads-String_processor.test" />
+        <module name="Recipes.Topics-Scanning_the_input-Theory.main" />
+        <module name="Recipes.Topics-Thread_synchronization-Multithreaded_counter.main" />
+        <module name="Recipes.Topics-Relational_operators-Theory.test" />
+        <module name="Recipes.util.test" />
+        <module name="Recipes.Topics-Builder-Subway_Sandwich.main" />
+        <module name="Recipes.Topics-Threads_as_objects-Thread_name.test" />
+        <module name="Recipes.Topics-Introduction_to_Java-Theory.test" />
+        <module name="Recipes.Topics-LocalDate-10_days_before.test" />
+        <module name="Recipes.Topics-The_Map_interface-Getting_submaps.test" />
+        <module name="Recipes.Topics-HashMap-The_same_letter.main" />
+        <module name="Recipes.Topics-The_Map_interface-Kidnapper_of_Ice_cream.main" />
+        <module name="Print content.Recipes.Topics-Generic_methods-Print_content.main" />
+        <module name="Recipes.Topics-Posting_and_deleting_data_via_REST-Theory.test" />
+        <module name="Recipes.Topics-HashMap-Countries_and_capitals.main" />
+        <module name="Recipes.Topics-Default_methods-Add_new_default_method.main" />
+        <module name="Capture variables.Recipes.Topics-Anonymous_classes-Capture_variables.test" />
+        <module name="Recipes.Topics-The_Map_interface-Modifying_a_map.test" />
+        <module name="Recipes.Topics-Custom_threads-Numbers_filter.test" />
+        <module name="Theory.Recipes.Topics-HashMap-Theory.test" />
+        <module name="Recipes.Topics-Threads_as_objects-Getting_current_thread_info.test" />
+        <module name="Recipes.Topics-Generic_methods-The_first_element.test" />
+        <module name="Recipes.Topics-HashMap-The_same_pairs.test" />
+        <module name="Invert an array.Recipes.Topics-Generic_methods-Invert_an_array.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Is_the_date_between_the_two_other_dates_.main" />
+        <module name="tests.Recipes.Recipes-task-build-reports-tests.main" />
+        <module name="Theory.Recipes.Topics-Generic_methods-Theory.main" />
+        <module name="Recipes.Topics-Builder-Builder__1_.main" />
+        <module name="Recipes.Topics-Thread_management-Summing_with_threads.main" />
+        <module name="Recipes.Topics-Iterating_over_arrays-Check_if_an_array_contains_two_numbers.main" />
+        <module name="Recipes.Topics-Scanning_the_input-Print_strings_in_the_reverse_order.test" />
+        <module name="Recipes.Topics-The_Map_interface-Creating_a_map.main" />
+        <module name="Recipes.Topics-Default_methods-Implement_a_default_method.main" />
+        <module name="Recipes.Topics-The_Map_interface-Sherlock_Holmes_and_the_mystery_of_anagrams.test" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Theory.test" />
+        <module name="Single method.Recipes.Topics-Anonymous_classes-Single_method.main" />
+        <module name="Recipes.Topics-Thread_synchronization-Theory.test" />
+        <module name="Recipes.Topics-Builder-Builder.main" />
+        <module name="Recipes.Topics-Custom_threads-Theory.main" />
+        <module name="Recipes.Topics-Builder-Theory.test" />
+        <module name="Theory.Recipes.Topics-Default_methods-Theory.test" />
+        <module name="java.Recipes.Recipes-task-build-classes-java.main" />
+        <module name="Recipes.Topics-Iterating_over_arrays-Theory.main" />
+        <module name="Recipes.Topics-Custom_threads-Writing_a_thread_for_printing_numbers.test" />
+        <module name="Check for null.Recipes.Topics-Generic_methods-Check_for_null.main" />
+        <module name="Implement Runnable.Recipes.Topics-Anonymous_classes-Implement_Runnable.main" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Frequency_of_characters.test" />
+        <module name="Recipes.Topics-The_Map_interface-Modifying_a_map.main" />
+        <module name="Recipes.Topics-Abstract_class-Theory.test" />
+        <module name="Recipes.Topics-Threads_as_objects-Is_thread_daemon.main" />
+        <module name="Recipes.Topics-Exception_handling-Theory.test" />
+        <module name="Recipes.Topics-Thread_synchronization-Countdown_counter.test" />
+        <module name="Sherlock Holmes and removing of characters.Recipes.Topics-The_Map_interface-Sherlock_Holmes_and_removing_of_characters.test" />
+        <module name="Recipes.Topics-Thread_management-Theory.test" />
+        <module name="Recipes.Topics-Custom_threads-Multiple_threads.test" />
+        <module name="Recipes.Topics-Thread_management-Summing_with_threads.test" />
+        <module name="Recipes.Topics-Threads_as_objects-Getting_current_thread_info.main" />
+        <module name="Recipes.Topics-Relational_operators-Groundhogs_at_a_party.test" />
+        <module name="Recipes.Topics-Thread_management-VeganPizza.main" />
+        <module name="Recipes.Topics-Custom_threads-Numbers_filter.main" />
+        <module name="Theory.Recipes.Topics-Anonymous_classes-Theory.main" />
+        <module name="Recipes.Topics-LocalDate-Theory.test" />
+        <module name="Recipes.Topics-Iterating_over_arrays-Alphabetical_order.main" />
+        <module name="Recipes.Topics-Scanning_the_input-Hiring_a_chef.main" />
+        <module name="Recipes.Topics-Thread_synchronization-Multithreaded_counter.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Theory.test" />
+        <module name="Recipes.Topics-Custom_threads-String_processor.main" />
+        <module name="Recipes.Topics-Iterating_over_arrays-The_index_of_the_first_max_in_an_array.main" />
+        <module name="Recipes.Topics-The_Map_interface-Displaying_pairs.test" />
+        <module name="Recipes.Topics-Custom_threads-Message_notifier_as_a_thread.main" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Sorting_sequences.test" />
+        <module name="Recipes.Topics-Builder-Subway_Sandwich.test" />
+        <module name="String reverser.Recipes.Topics-Anonymous_classes-String_reverser.test" />
+        <module name="Recipes.Topics-Optional-Theory.test" />
+        <module name="Recipes.Topics-Threads_as_objects-Theory.main" />
+        <module name="Recipes.Topics-Builder-Robot_Builder.main" />
+        <module name="Recipes.Topics-The_Map_interface-Sherlock_Holmes_and_removing_of_characters.main" />
+        <module name="Recipes.Topics-Introduction_to_Java-Hello_.test" />
+        <module name="Recipes.Topics-Lambda_expressions-Theory.main" />
+        <module name="Recipes.Topics-The_Map_interface-Theory.test" />
+        <module name="tmp.Recipes.Recipes-task-build-tmp.test" />
+        <module name="Recipes.Topics-Abstract_class-Users_and_WebSites.test" />
+        <module name="Recipes.Topics-Builder-Geek_Builder.test" />
+        <module name="Creating a closure.Recipes.Topics-Lambda_expressions-Creating_a_closure.main" />
+        <module name="Tricky sub-maps.Recipes.Topics-The_Map_interface-Tricky_sub-maps.test" />
+        <module name="Recipes.Topics-Generic_methods-Invert_an_array.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="Add new default method.Recipes.Topics-Default_methods-Add_new_default_method" target="17" />
+      <module name="Add new default method.Recipes.Topics-Default_methods-Add_new_default_method.test" target="17" />
+      <module name="An anonymous class with three methods.Recipes.Topics-Anonymous_classes-An_anonymous_class_with_three_methods" target="17" />
+      <module name="An anonymous class with three methods.Recipes.Topics-Anonymous_classes-An_anonymous_class_with_three_methods.test" target="17" />
+      <module name="Capture variables.Recipes.Topics-Anonymous_classes-Capture_variables" target="17" />
+      <module name="Capture variables.Recipes.Topics-Anonymous_classes-Capture_variables.test" target="17" />
+      <module name="Check for null.Recipes.Topics-Generic_methods-Check_for_null.test" target="17" />
+      <module name="Counting words.Recipes.Topics-The_Map_interface-Counting_words" target="17" />
+      <module name="Countries and capitals.Recipes.Topics-HashMap-Countries_and_capitals" target="17" />
+      <module name="Countries and capitals.Recipes.Topics-HashMap-Countries_and_capitals.test" target="17" />
+      <module name="Creating a closure.Recipes.Topics-Lambda_expressions-Creating_a_closure" target="17" />
+      <module name="Implement a default method.Recipes.Topics-Default_methods-Implement_a_default_method" target="17" />
+      <module name="Implement Runnable.Recipes.Topics-Anonymous_classes-Implement_Runnable" target="17" />
+      <module name="Invert an array.Recipes.Topics-Generic_methods-Invert_an_array" target="17" />
+      <module name="Invert an array.Recipes.Topics-Generic_methods-Invert_an_array.test" target="17" />
+      <module name="java.Recipes.Recipes-task-build-classes-java" target="17" />
+      <module name="java.Recipes.Recipes-task-build-classes-java.test" target="17" />
+      <module name="java.Recipes.Recipes-task-build-generated-sources-annotationProcessor-java" target="17" />
+      <module name="java.Recipes.Recipes-task-build-generated-sources-annotationProcessor-java.test" target="17" />
+      <module name="java.Recipes.Recipes-task-build-generated-sources-headers-java" target="17" />
+      <module name="java.Recipes.Recipes-task-build-generated-sources-headers-java.test" target="17" />
+      <module name="Print content.Recipes.Topics-Generic_methods-Print_content" target="17" />
+      <module name="Print content.Recipes.Topics-Generic_methods-Print_content.test" target="17" />
+      <module name="Recipes.Recipes-task" target="17" />
+      <module name="Recipes.Recipes-task-build-classes-java" target="17" />
+      <module name="Recipes.Recipes-task-build-classes-java.test" target="17" />
+      <module name="Recipes.Recipes-task-build-generated-sources-annotationProcessor-java" target="17" />
+      <module name="Recipes.Recipes-task-build-generated-sources-annotationProcessor-java.test" target="17" />
+      <module name="Recipes.Recipes-task-build-generated-sources-headers-java" target="17" />
+      <module name="Recipes.Recipes-task-build-generated-sources-headers-java.test" target="17" />
+      <module name="Recipes.Recipes-task-build-reports-tests" target="17" />
+      <module name="Recipes.Recipes-task-build-reports-tests.test" target="17" />
+      <module name="Recipes.Recipes-task-build-test-results" target="17" />
+      <module name="Recipes.Recipes-task-build-test-results.test" target="17" />
+      <module name="Recipes.Recipes-task-build-tmp" target="17" />
+      <module name="Recipes.Recipes-task-build-tmp.test" target="17" />
+      <module name="Recipes.Recipes.task.Recipes.Recipes-task.test~1" target="17" />
+      <module name="Recipes.Topics-Abstract_class-Theory" target="17" />
+      <module name="Recipes.Topics-Abstract_class-Theory.test" target="17" />
+      <module name="Recipes.Topics-Abstract_class-Users_and_WebSites" target="17" />
+      <module name="Recipes.Topics-Abstract_class-Users_and_WebSites.test" target="17" />
+      <module name="Recipes.Topics-Anonymous_classes-Implement_Runnable.test" target="17" />
+      <module name="Recipes.Topics-Anonymous_classes-String_reverser" target="17" />
+      <module name="Recipes.Topics-Anonymous_classes-Theory" target="17" />
+      <module name="Recipes.Topics-Builder-Builder" target="17" />
+      <module name="Recipes.Topics-Builder-Builder.test" target="17" />
+      <module name="Recipes.Topics-Builder-Builder__1_" target="17" />
+      <module name="Recipes.Topics-Builder-Builder__1_.test" target="17" />
+      <module name="Recipes.Topics-Builder-Geek_Builder" target="17" />
+      <module name="Recipes.Topics-Builder-Geek_Builder.test" target="17" />
+      <module name="Recipes.Topics-Builder-Robot_Builder" target="17" />
+      <module name="Recipes.Topics-Builder-Robot_Builder.test" target="17" />
+      <module name="Recipes.Topics-Builder-Subway_Sandwich" target="17" />
+      <module name="Recipes.Topics-Builder-Subway_Sandwich.test" target="17" />
+      <module name="Recipes.Topics-Builder-Theory" target="17" />
+      <module name="Recipes.Topics-Builder-Theory.test" target="17" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-Don't_be_late_again" target="17" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-Don't_be_late_again.test" target="17" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-Is_the_date_between_the_two_other_dates_" target="17" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-Is_the_date_between_the_two_other_dates_.test" target="17" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-Theory" target="17" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-Theory.test" target="17" />
+      <module name="Recipes.Topics-Custom_threads-Message_notifier_as_a_thread" target="17" />
+      <module name="Recipes.Topics-Custom_threads-Message_notifier_as_a_thread.test" target="17" />
+      <module name="Recipes.Topics-Custom_threads-Multiple_threads" target="17" />
+      <module name="Recipes.Topics-Custom_threads-Multiple_threads.test" target="17" />
+      <module name="Recipes.Topics-Custom_threads-Numbers_filter" target="17" />
+      <module name="Recipes.Topics-Custom_threads-Numbers_filter.test" target="17" />
+      <module name="Recipes.Topics-Custom_threads-Starting_runnables" target="17" />
+      <module name="Recipes.Topics-Custom_threads-Starting_runnables.test" target="17" />
+      <module name="Recipes.Topics-Custom_threads-Starting_threads" target="17" />
+      <module name="Recipes.Topics-Custom_threads-Starting_threads.test" target="17" />
+      <module name="Recipes.Topics-Custom_threads-String_processor" target="17" />
+      <module name="Recipes.Topics-Custom_threads-String_processor.test" target="17" />
+      <module name="Recipes.Topics-Custom_threads-Theory" target="17" />
+      <module name="Recipes.Topics-Custom_threads-Theory.test" target="17" />
+      <module name="Recipes.Topics-Custom_threads-Writing_a_thread_for_printing_numbers" target="17" />
+      <module name="Recipes.Topics-Custom_threads-Writing_a_thread_for_printing_numbers.test" target="17" />
+      <module name="Recipes.Topics-Default_methods-Implement_a_default_method.test" target="17" />
+      <module name="Recipes.Topics-Default_methods-Theory" target="17" />
+      <module name="Recipes.Topics-Exception_handling-Theory" target="17" />
+      <module name="Recipes.Topics-Exception_handling-Theory.test" target="17" />
+      <module name="Recipes.Topics-Generic_methods-Check_for_null" target="17" />
+      <module name="Recipes.Topics-Generic_methods-The_first_element" target="17" />
+      <module name="Recipes.Topics-Generic_methods-The_first_element.test" target="17" />
+      <module name="Recipes.Topics-HashMap-The_same_pairs.test" target="17" />
+      <module name="Recipes.Topics-HashMap-Theory" target="17" />
+      <module name="Recipes.Topics-Introduction_to_Java-Hello_" target="17" />
+      <module name="Recipes.Topics-Introduction_to_Java-Hello_.test" target="17" />
+      <module name="Recipes.Topics-Introduction_to_Java-Theory" target="17" />
+      <module name="Recipes.Topics-Introduction_to_Java-Theory.test" target="17" />
+      <module name="Recipes.Topics-Iterating_over_arrays-Alphabetical_order" target="17" />
+      <module name="Recipes.Topics-Iterating_over_arrays-Alphabetical_order.test" target="17" />
+      <module name="Recipes.Topics-Iterating_over_arrays-Check_if_an_array_contains_two_numbers" target="17" />
+      <module name="Recipes.Topics-Iterating_over_arrays-Check_if_an_array_contains_two_numbers.test" target="17" />
+      <module name="Recipes.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs" target="17" />
+      <module name="Recipes.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.test" target="17" />
+      <module name="Recipes.Topics-Iterating_over_arrays-The_index_of_the_first_max_in_an_array" target="17" />
+      <module name="Recipes.Topics-Iterating_over_arrays-The_index_of_the_first_max_in_an_array.test" target="17" />
+      <module name="Recipes.Topics-Iterating_over_arrays-The_sum_of_array_elements" target="17" />
+      <module name="Recipes.Topics-Iterating_over_arrays-The_sum_of_array_elements.test" target="17" />
+      <module name="Recipes.Topics-Iterating_over_arrays-Theory" target="17" />
+      <module name="Recipes.Topics-Iterating_over_arrays-Theory.test" target="17" />
+      <module name="Recipes.Topics-Lambda_expressions-Creating_a_closure.test" target="17" />
+      <module name="Recipes.Topics-Lambda_expressions-Theory.test" target="17" />
+      <module name="Recipes.Topics-LocalDate-10_days_before" target="17" />
+      <module name="Recipes.Topics-LocalDate-10_days_before.test" target="17" />
+      <module name="Recipes.Topics-LocalDate-2_weeks_after" target="17" />
+      <module name="Recipes.Topics-LocalDate-2_weeks_after.test" target="17" />
+      <module name="Recipes.Topics-LocalDate-Convert_numbers_to_days" target="17" />
+      <module name="Recipes.Topics-LocalDate-Convert_numbers_to_days.test" target="17" />
+      <module name="Recipes.Topics-LocalDate-Theory" target="17" />
+      <module name="Recipes.Topics-LocalDate-Theory.test" target="17" />
+      <module name="Recipes.Topics-Optional-The_address_book.test" target="17" />
+      <module name="Recipes.Topics-Optional-Theory.test" target="17" />
+      <module name="Recipes.Topics-Posting_and_deleting_data_via_REST-Theory.test" target="17" />
+      <module name="Recipes.Topics-Relational_operators-Check_the_value" target="17" />
+      <module name="Recipes.Topics-Relational_operators-Check_the_value.test" target="17" />
+      <module name="Recipes.Topics-Relational_operators-Groundhogs_at_a_party" target="17" />
+      <module name="Recipes.Topics-Relational_operators-Groundhogs_at_a_party.test" target="17" />
+      <module name="Recipes.Topics-Relational_operators-Theory" target="17" />
+      <module name="Recipes.Topics-Relational_operators-Theory.test" target="17" />
+      <module name="Recipes.Topics-Scanning_the_input-Guest_list_of_a_hotel" target="17" />
+      <module name="Recipes.Topics-Scanning_the_input-Guest_list_of_a_hotel.test" target="17" />
+      <module name="Recipes.Topics-Scanning_the_input-Hiring_a_chef" target="17" />
+      <module name="Recipes.Topics-Scanning_the_input-Hiring_a_chef.test" target="17" />
+      <module name="Recipes.Topics-Scanning_the_input-Print_strings_in_the_reverse_order" target="17" />
+      <module name="Recipes.Topics-Scanning_the_input-Print_strings_in_the_reverse_order.test" target="17" />
+      <module name="Recipes.Topics-Scanning_the_input-Theory" target="17" />
+      <module name="Recipes.Topics-Scanning_the_input-Theory.test" target="17" />
+      <module name="Recipes.Topics-The_keyword_super-Employees" target="17" />
+      <module name="Recipes.Topics-The_keyword_super-Theory" target="17" />
+      <module name="Recipes.Topics-The_Map_interface-Counting_words.test" target="17" />
+      <module name="Recipes.Topics-The_Map_interface-Creating_a_map" target="17" />
+      <module name="Recipes.Topics-The_Map_interface-Creating_a_map.test" target="17" />
+      <module name="Recipes.Topics-The_Map_interface-Displaying_pairs" target="17" />
+      <module name="Recipes.Topics-The_Map_interface-Displaying_pairs.test" target="17" />
+      <module name="Recipes.Topics-The_Map_interface-Getting_submaps" target="17" />
+      <module name="Recipes.Topics-The_Map_interface-Getting_submaps.test" target="17" />
+      <module name="Recipes.Topics-The_Map_interface-Kidnapper_of_Ice_cream" target="17" />
+      <module name="Recipes.Topics-The_Map_interface-Kidnapper_of_Ice_cream.test" target="17" />
+      <module name="Recipes.Topics-The_Map_interface-Modifying_a_map" target="17" />
+      <module name="Recipes.Topics-The_Map_interface-Modifying_a_map.test" target="17" />
+      <module name="Recipes.Topics-The_Map_interface-Sherlock_Holmes_and_the_mystery_of_anagrams" target="17" />
+      <module name="Recipes.Topics-The_Map_interface-Sherlock_Holmes_and_the_mystery_of_anagrams.test" target="17" />
+      <module name="Recipes.Topics-The_Map_interface-Theory" target="17" />
+      <module name="Recipes.Topics-The_Map_interface-Theory.test" target="17" />
+      <module name="Recipes.Topics-The_Map_interface-Tricky_sub-maps" target="17" />
+      <module name="Recipes.Topics-The_utility_class_Collections-Frequency_of_characters" target="17" />
+      <module name="Recipes.Topics-The_utility_class_Collections-Frequency_of_characters.test" target="17" />
+      <module name="Recipes.Topics-The_utility_class_Collections-Sorting_sequences" target="17" />
+      <module name="Recipes.Topics-The_utility_class_Collections-Sorting_sequences.test" target="17" />
+      <module name="Recipes.Topics-The_utility_class_Collections-The_first_index_of_a_sublist" target="17" />
+      <module name="Recipes.Topics-The_utility_class_Collections-The_first_index_of_a_sublist.test" target="17" />
+      <module name="Recipes.Topics-The_utility_class_Collections-Theory" target="17" />
+      <module name="Recipes.Topics-The_utility_class_Collections-Theory.test" target="17" />
+      <module name="Recipes.Topics-Thread_management-Calculate_the_number_of_distinct_characters" target="17" />
+      <module name="Recipes.Topics-Thread_management-Calculate_the_number_of_distinct_characters.test" target="17" />
+      <module name="Recipes.Topics-Thread_management-Ordering_the_execution_of_threads" target="17" />
+      <module name="Recipes.Topics-Thread_management-Ordering_the_execution_of_threads.test" target="17" />
+      <module name="Recipes.Topics-Thread_management-Summing_with_threads" target="17" />
+      <module name="Recipes.Topics-Thread_management-Summing_with_threads.test" target="17" />
+      <module name="Recipes.Topics-Thread_management-Theory" target="17" />
+      <module name="Recipes.Topics-Thread_management-Theory.test" target="17" />
+      <module name="Recipes.Topics-Thread_management-VeganPizza" target="17" />
+      <module name="Recipes.Topics-Thread_management-VeganPizza.test" target="17" />
+      <module name="Recipes.Topics-Thread_synchronization-Countdown_counter" target="17" />
+      <module name="Recipes.Topics-Thread_synchronization-Countdown_counter.test" target="17" />
+      <module name="Recipes.Topics-Thread_synchronization-Multithreaded_counter" target="17" />
+      <module name="Recipes.Topics-Thread_synchronization-Multithreaded_counter.test" target="17" />
+      <module name="Recipes.Topics-Thread_synchronization-Theory" target="17" />
+      <module name="Recipes.Topics-Thread_synchronization-Theory.test" target="17" />
+      <module name="Recipes.Topics-Threads_as_objects-Getting_current_thread_info" target="17" />
+      <module name="Recipes.Topics-Threads_as_objects-Getting_current_thread_info.test" target="17" />
+      <module name="Recipes.Topics-Threads_as_objects-Is_thread_daemon" target="17" />
+      <module name="Recipes.Topics-Threads_as_objects-Is_thread_daemon.test" target="17" />
+      <module name="Recipes.Topics-Threads_as_objects-Theory" target="17" />
+      <module name="Recipes.Topics-Threads_as_objects-Theory.test" target="17" />
+      <module name="Recipes.Topics-Threads_as_objects-Thread_name" target="17" />
+      <module name="Recipes.Topics-Threads_as_objects-Thread_name.test" target="17" />
+      <module name="Recipes.util" target="17" />
+      <module name="Recipes.util.test" target="17" />
+      <module name="Resolve a diamond problem.Recipes.Topics-Default_methods-Resolve_a_diamond_problem" target="17" />
+      <module name="Resolve a diamond problem.Recipes.Topics-Default_methods-Resolve_a_diamond_problem.test" target="17" />
+      <module name="Sherlock Holmes and removing of characters.Recipes.Topics-The_Map_interface-Sherlock_Holmes_and_removing_of_characters.test" target="17" />
+      <module name="Single method.Recipes.Topics-Anonymous_classes-Single_method" target="17" />
+      <module name="Single method.Recipes.Topics-Anonymous_classes-Single_method.test" target="17" />
+      <module name="String reverser.Recipes.Topics-Anonymous_classes-String_reverser.test" target="17" />
+      <module name="test-results.Recipes.Recipes-task-build-test-results" target="17" />
+      <module name="test-results.Recipes.Recipes-task-build-test-results.test" target="17" />
+      <module name="tests.Recipes.Recipes-task-build-reports-tests" target="17" />
+      <module name="tests.Recipes.Recipes-task-build-reports-tests.test" target="17" />
+      <module name="The address book.Recipes.Topics-Optional-The_address_book" target="17" />
+      <module name="The keyword super.Employees.Recipes.Topics-The_keyword_super-Employees.test" target="17" />
+      <module name="The keyword super.Theory.Recipes.Topics-The_keyword_super-Theory.test" target="17" />
+      <module name="The same letter.Recipes.Topics-HashMap-The_same_letter" target="17" />
+      <module name="The same letter.Recipes.Topics-HashMap-The_same_letter.test" target="17" />
+      <module name="The same pairs.Recipes.Topics-HashMap-The_same_pairs" target="17" />
+      <module name="Theory.Recipes.Topics-Anonymous_classes-Theory.test" target="17" />
+      <module name="Theory.Recipes.Topics-Default_methods-Theory.test" target="17" />
+      <module name="Theory.Recipes.Topics-Generic_methods-Theory" target="17" />
+      <module name="Theory.Recipes.Topics-Generic_methods-Theory.test" target="17" />
+      <module name="Theory.Recipes.Topics-HashMap-Theory.test" target="17" />
+      <module name="Theory.Recipes.Topics-Lambda_expressions-Theory" target="17" />
+      <module name="Theory.Recipes.Topics-Optional-Theory" target="17" />
+      <module name="tmp.Recipes.Recipes-task-build-tmp" target="17" />
+      <module name="tmp.Recipes.Recipes-task-build-tmp.test" target="17" />
+      <module name="Topics.Posting and deleting data via REST.Theory.Recipes.Topics-Posting_and_deleting_data_via_REST-Theory~1" target="17" />
+      <module name="Topics.The Map interface.Sherlock Holmes and removing of characters.Recipes.Topics-The_Map_interface-Sherlock_Holmes_and_removing_of_characters" target="17" />
+      <module name="Tricky sub-maps.Recipes.Topics-The_Map_interface-Tricky_sub-maps.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
