@@ -35,7 +35,6 @@ public class RecipeController {
     @GetMapping("/api/recipe/{id}")
     public ResponseEntity<Recipe> getRecipe(@PathVariable Long id) {
         Optional<Recipe> recipe = recipeService.findRecipeById(id);
-
         return recipe.map(value -> new ResponseEntity<>(value, HttpStatus.OK)).orElseGet(() -> new ResponseEntity<>(null, HttpStatus.NOT_FOUND));
 
 //        return recipe.map(value -> new ResponseEntity<>(
